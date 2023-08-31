@@ -11,27 +11,28 @@
 
 p{
     font-size: xx-large;
-    padding: 5%;
-    
+    padding: 10%;
+   
 }
+
 button{
     
-    font-size: xx-large;
-    padding: 0.75em;
+    font-size: 200%;
+    padding: 0.70em;    
+
 }
 #yesBtn{
     transform: translate(-100%,0);
+    background-position: bottom right;
 }
 
 #noBtn{
     position: absolute;
+    background-position: bottom right;
 }
 
 img{
-    height: 150px;
-    left: 10px;
-    position: relative;
-    top: -50px;
-    width: 150px;
+    background-position: 50% -10%;
     border-radius: 50%;
+    
 }
